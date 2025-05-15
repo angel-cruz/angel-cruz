@@ -1,4 +1,4 @@
-- # 👋 Hi, I'm Angel Cruz
+# 👋 Hi, I'm Angel Cruz
 
 I'm a passionate and experienced **Full Stack Developer** with over 8 years of experience building scalable, high-performance applications. My core strengths lie in **Java**, **Spring Boot**, **SQL**, and **Angular**, but I'm always exploring new tools and technologies to sharpen my craft.
 
@@ -31,4 +31,4 @@ I'm always open to new challenges and collaboration opportunities. Feel free to 
 
 ---
 
-> “Clean code always looks like it was written
+> “Clean code always looks like it was written by someone who cares.” – Robert C. Martin
