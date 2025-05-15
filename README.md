@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Angel Cruz
+# 👋 Hi
 
 I'm a passionate and experienced **Full Stack Developer** with over 8 years of experience building scalable, high-performance applications. My core strengths lie in **Java**, **Spring Boot**, **SQL**, and **Angular**, but I'm always exploring new tools and technologies to sharpen my craft.
 
