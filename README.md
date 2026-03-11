@@ -26,7 +26,7 @@ SDLC | Agile | QA Testing | CI/CD | Data Dashboards | Performance Monitoring
 
 ## 📫 Let's Connect
 
-I'm always open to new challenges and collaboration opportunities. Feel free to reach out!
+Open to new challenges and collabs
 
 - LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/angel-cruz-83685352/))
 - Email: byangelcruz@gmail.com
